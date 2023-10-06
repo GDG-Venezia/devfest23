@@ -1,0 +1,12 @@
+---
+enable: true
+title: "Biglietti"
+subtitle: >
+          Per accedere alla DevFest è richiesto un biglietto gratuito. Prenota ora il tuo posto.
+itemPrices:
+  - description: >
+                Biglietto valido per l'ingresso.
+    price: DevFest Venezia 23
+    buttonTarget: "https://gdg.community.dev/events/details/google-gdg-venezia-presents-devfest-venezia-2023/"
+
+---

@@ -1,0 +1,41 @@
+---
+enable: true
+title: "Partners"
+subtitle: >
+  DevFest Venezia è resa possibile grazie al contributo dei nostri partners:
+partner:
+  - name: "Google"
+    image: "images/partners/google.svg"
+    link: "https://developers.google.com/community/gdg"
+#  - name: "NOI Techpark"
+#    image: "images/partners/noi.svg"
+#    link: "https://noi.bz.it/it"
+#  - name: "Wavelop"
+#    image: "images/partners/wavelop.png"
+#    link: "https://wavelop.com/"        
+#  - name: "KUAMA"
+#    image: "images/partners/kuama.png"
+#    link: "https://kuama.it/"       
+#  - name: "Aton"
+#    image: "images/partners/aton.jpg"
+#    link: "https://aton.com/"          
+#  - name: "Körber"
+#    image: "images/partners/koerber.png"
+#    link: "https://www.koerber-technologies.com"      
+#  - name: "NTT Data"
+#    image: "images/partners/ntt-data.svg"
+#    link: "https://www.nttdata.com/"
+#  - name: "24 Consulting"
+#    image: "images/partners/24_c.png"
+#    link: "https://www.24consulting.it/"
+#  - name: "Wonderflow"
+#    image: "images/partners/wonderflow.png"
+#    link: "https://www.wonderflow.ai/"     
+#  - name: "The Community Atlas"
+#    image: "images/partners/tca.png"
+#    link: "https://thecommunityatlas.com/"                   
+  - name: "Vuoi sponsorizzare DevFest Venezia 23? Clicca qui."
+    image: "images/partners/partner-placeholder.png"
+    link: "https://www.notion.so/DevFest-Venezia-2023-5f4ad0dd9a0a4eab99ce7f3a212bd14b#c55ababe1f7c44e7b5a457264a5d9dd2"
+---
+

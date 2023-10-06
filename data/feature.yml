@@ -1,0 +1,31 @@
+---
+enable: true
+title: "Che cos'è DevFest Venezia?"
+subtitle: >
+          Ritorna la DevFest a Venezia: il momento di ritrovo tra developer (e non) in cui condividere la propria passione ed esperienza per il mondo dello sviluppo!
+features:
+  - name: "DevFest"
+    description: >
+                Le DevFest sono eventi community organizzati dai Google Developer Groups che offrono talks, workshops e momenti di networking su prodotti Google e non.
+    icon: "ti-view-grid"
+  - name: "Google Developer Group"
+    description: >
+                I Google Developer Group (GDG) sono gruppi di developer che hanno interesse nelle tecnologie Google: tutto quello che spazia da Android, Web, Cloud, Flutter, e molto altro.
+    icon: "ti-desktop"
+  - name: "Quando?"
+    description: >
+                Sabato 2 Dicembre 2022 dalle 9.30 alle 18.30
+    icon: "ti-image"
+  - name: "150+ persone"
+    description: >
+                Più di 150 persone attese
+    icon: "ti-user"
+  - name: "3 Track"
+    description: >
+                Tre track coinvolgenti con sessioni in inglese e italiano.
+    icon: "ti-blackboard"
+  - name: "1 GDG"
+    description: >
+        La DevFest Venezia 2023 è organizzata dal GDG Venezia
+    icon: "ti-user"
+---
