@@ -26,7 +26,7 @@ title = 'DevFest Venezia 23'
   name = "Location"
   url= "#location"
   weight = 3
-  [[menu.Main]]
+#  [[menu.Main]]
 
 [params]
   description = "DevFest Venezia 2023 - 2 Dicembre - Venezia"
