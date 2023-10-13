@@ -6,10 +6,10 @@ title = 'DevFest Venezia 23'
 
 [Menu]
   # Main Menu
-#  [[menu.Main]]
-#  name = "Speakers"
-#  url= "/speakers/"
-#  weight = 1
+  [[menu.Main]]
+  name = "Speakers"
+  url= "/speakers/"
+  weight = 1
 #  [[menu.Main]]
 #  name = "Agenda"
 #  url= "/agenda/"
@@ -17,15 +17,15 @@ title = 'DevFest Venezia 23'
   [[menu.Main]]
   name = "Tickets"
   url= "#ticket"
-  weight = 1
+  weight = 2
   [[menu.Main]]
   name = "Partners"
   url= "#partner"
-  weight = 2
+  weight = 3
   [[menu.Main]]
   name = "Location"
   url= "#location"
-  weight = 3
+  weight = 4
 #  [[menu.Main]]
 
 [params]

@@ -9,10 +9,10 @@
           </div>
         <div>
            <div class="post-title">
-              {{ if eq .Params.location "Venezia" }}
-                <div class="blog-tip">{{.Params.location}}</div>
+              {{ if eq .Params.lang "eng" }}
+                <div class="blog-tip">{{.Params.lang}}</div>
               {{ else }}
-                <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.location}}</div>
+                <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.lang}}</div>
               {{ end }}
              <h2>{{.Params.name }}</h2>
              <p>{{ .Params.jobTitle }}</p>

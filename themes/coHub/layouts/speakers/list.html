@@ -22,15 +22,21 @@
               <p>{{.Params.jobTitle}}</p>
               <h3><b> {{.Params.presentation.title }} </b></h3>
             </div>
-            {{ if eq .Params.location "Venezia" }}
-              <div class="blog-tip">{{.Params.location}}</div>
+            {{ if eq .Params.lang "eng" }}
+              <div class="blog-tip">{{.Params.lang}}</div>
             {{ else }}
-             <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.location}}</div>
+             <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.lang}}</div>
             {{ end }}
           </article>
         </a>
       </div>
       {{end}}
+    </div>
+
+    <br>
+    <br>
+    <div style="text-align:center;">
+      <h2>More coming soon...</h2>
     </div>
   </div>
 </section>
