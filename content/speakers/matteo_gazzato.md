@@ -1,14 +1,11 @@
 ---
-title: "Massimo Petrogalli - DevFest Venezia 2023"
-name: "Massimo Petrogalli"
-photo: "/images/speakers/massimo_petrogalli.webp"
-bio: "Massimo has been passionate about Android development since 2018 when he was studying at Università degli Studi di Milano. After graduating he first worked as consultant for two years where he had the opportunity to learn and appreciate Kotlin. He worked as an Android developer in different fields like fintech, postal service and AI.  
-<br><br>
-At Conio he enjoys developing features, designing architecture and keeping the code clean.
-<br><br>
-Tech enthusiast, snowboarder and climber."
-jobTitle: Android Engineer @ Conio S.r.l.
-linkedin: "https://it.linkedin.com/in/massimo-petrogalli-25894a173"
+title: "Matteo Gazzato - DevFest Venezia 2023"
+name: "Matteo Gazzato"
+photo: "/images/speakers/matteo_gazzato.webp"
+bio: "iOS adventurer, clean code enthusiastic and mobile addicted"
+jobTitle: Mobile Architect @ Conio s.r.l.
+twitter: "https://twitter.com/Matteogazzato"
+linkedin: "https://www.linkedin.com/in/matteo-gazzato-a1548457/"
 featured: false
 lang: it
 presentation:
