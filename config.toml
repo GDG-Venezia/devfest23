@@ -4,28 +4,27 @@ paginate = 6
 theme= "coHub"
 title = 'DevFest Venezia 23'
 
-[Menu]
   # Main Menu
-  [[menu.Main]]
-  name = "Speakers"
-  url= "/speakers/"
-  weight = 1
+[[menu.Main]]
+name = "Speakers"
+url= "/speakers/"
+weight = 1
 #  [[menu.Main]]
 #  name = "Agenda"
 #  url= "/agenda/"
 #  weight = 2
-  [[menu.Main]]
-  name = "Tickets"
-  url= "#ticket"
-  weight = 2
-  [[menu.Main]]
-  name = "Partners"
-  url= "#partner"
-  weight = 3
-  [[menu.Main]]
-  name = "Location"
-  url= "#location"
-  weight = 4
+[[menu.Main]]
+name = "Tickets"
+url= "#ticket"
+weight = 2
+[[menu.Main]]
+name = "Partners"
+url= "#partner"
+weight = 3
+[[menu.Main]]
+name = "Location"
+url= "#location"
+weight = 4
 #  [[menu.Main]]
 
 [params]
