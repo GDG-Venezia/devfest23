@@ -2,8 +2,8 @@
 title: "István Juhos - DevFest Venezia 2023"
 name: "István Juhos"
 photo: "/images/speakers/istvan_juhos.webp"
-bio: Senior Android Engineer @ TIER; Co-organizer of @KotlinBudapest
-jobTitle: Senior Android Engineer @ TIER
+bio: Android Engineer @ FAIRTIQ; Co-organizer of @KotlinBudapest
+jobTitle: Android Engineer @ FAIRTIQ
 twitter: "https://twitter.com/stewemetal"
 linkedin: "https://linkedin.com/in/istvan-juhos/"
 website: "https://istvanjuhos.dev"
