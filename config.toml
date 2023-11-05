@@ -38,7 +38,7 @@ weight = 5
   image = "images/logo.png"
   logo = "images/logo.svg"
   footerlogo = "images/logo.svg"
-  footerDescription = "Organized by Google Developer Group <a href=\"https://gdg.community.dev/gdg-venezia/\" target=\"BLANK\">Venezia</a>."
+  footerDescription = "Organized by <a href=\"https://gdg.community.dev/gdg-venezia/\" target=\"BLANK\">Google Developer Group Venezia</a>."
 
   [params.location]
   title = "Location"
