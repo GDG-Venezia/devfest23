@@ -7,7 +7,7 @@ title = 'DevFest Venezia 23'
   # Main Menu
 [[menu.Main]]
 name = "Speakers"
-url= "/speakers/"
+url= "speakers/"
 weight = 1
 #  [[menu.Main]]
 #  name = "Agenda"
