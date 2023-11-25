@@ -7,7 +7,7 @@ bio: "Ivano Donadi is an AI Engineer at Ennova-Research, where he designs and de
 He earned his Bachelor's degree in Information Engineering from the University of Padua in 2020, followed by a Master's degree in Computer Engineering in 2022. He collaborated with the University of Padua for a year as a research fellow, working on sonar localization methods and 3D stereo object pose estimation. Since 2023, he has been working as an AI Engineer at Ennova-Research, actively participating in Natural Language Processing (NLP) projects."
 jobTitle: AI Engineer at Ennova-Research
 featured: false
-lang: it
+lang: eng
 linkedin: https://www.linkedin.com/in/ivano-donadi
 presentation:
     title: "Automatic unstructured PDF ingestion on GCP"

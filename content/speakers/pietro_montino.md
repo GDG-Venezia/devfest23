@@ -5,7 +5,7 @@ photo: "/images/speakers/pietro_montino.webp"
 bio: "Helping companies accelerate growth and reduce costs through AI."
 jobTitle: AI Principal Consultant at Ennova Research
 featured: false
-lang: it
+lang: eng
 presentation:
     title: "Automatic unstructured PDF ingestion on GCP"
     abstract: "The scope of this session is to show how it is possible to create a Question Answering agent on GCP starting from complex documents, like technical handbooks. This will be done by using the following passages:
