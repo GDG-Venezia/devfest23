@@ -5,6 +5,7 @@ photo: "/images/speakers/stefano_cariddi.jpg"
 bio: "Stefano Cariddi earned his Ph.D. in Astronomy in 2018 and then transitioned to the field of Artificial Intelligence. His profile is that of a Data Scientist, so he possesses strong skills in data processing, dataset creation, model training, and, more broadly, Machine Learning. His profile is further complemented by 10 years of experience in scientific programming in Python, the use of pre-trained models in Computer Vision, Natural Language Processing, and Text Generation, and the utilization of the Google Cloud Platform for delivering Artificial Intelligence services."
 jobTitle: Sr. AI Researcher
 featured: false
+linkedin: https://www.linkedin.com/in/stefanocariddi
 lang: eng
 presentation:
     title: "Automatic unstructured PDF ingestion on GCP"
